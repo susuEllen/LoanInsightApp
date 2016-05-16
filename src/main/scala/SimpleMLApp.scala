@@ -1,7 +1,7 @@
 /**
  * Created by ellenwong on 5/8/16.
  */
-object SimpleApp {
+object SimpleMLApp {
 
   def main(args: Array[String]) = {
     println("Simple Loan MLApp")
@@ -16,7 +16,7 @@ object SimpleApp {
     //Load Data (csv)
 
     //Split data into training, validation (Is the data temporal??)
-    //http://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio
+    //http://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validation
 
     //Extract Features from dataset?
     /*
